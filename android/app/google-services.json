@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387510940696",
+    "project_id": "map-bloc-firebase-app",
+    "storage_bucket": "map-bloc-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387510940696:android:cc3990bf901c5311f2ff6d",
+        "android_client_info": {
+          "package_name": "pl.com.appflow.map_bloc_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387510940696-mpjcev7vmlvtl5hu1chco1llrqosg0en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BDs3FQ-4w9Npc-bivFhQjc59NU-vcCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387510940696-mpjcev7vmlvtl5hu1chco1llrqosg0en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
